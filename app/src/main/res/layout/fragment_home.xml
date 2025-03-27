@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="20dp">
+
+
+    <TextView
+        android:id="@+id/textHome1"
+        android:layout_width="353dp"
+        android:layout_height="46dp"
+        android:text="HOME"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+
+
+
+    <TextView
+        android:id="@+id/textHome"
+        android:layout_width="353dp"
+        android:layout_height="46dp"
+        android:gravity="center"
+        android:text="Welcome to Home!"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+
+    <ImageView
+        android:id="@+id/imgOnboarding"
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:scaleType="fitCenter"
+        android:src="@drawable/home" />
+
+    <Button
+        android:id="@+id/Profilebtn"
+        android:layout_width="125dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:fontFamily="sans-serif"
+        android:paddingLeft="16dp"
+        android:paddingTop="12dp"
+        android:paddingRight="16dp"
+        android:gravity="center"
+        android:paddingBottom="12dp"
+        android:text="Profile"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+
+    <Button
+        android:id="@+id/Helpbtn"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:text="Help"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:paddingTop="12dp"
+        android:paddingBottom="12dp"
+        android:paddingRight="16dp"
+        android:paddingLeft="16dp"
+        android:gravity="center"
+        android:layout_marginTop="20dp"
+        android:fontFamily="sans-serif"
+        />
+
+    <Button
+        android:id="@+id/settingbtn"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:text="Setting"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:paddingTop="12dp"
+        android:paddingBottom="12dp"
+        android:paddingRight="16dp"
+        android:paddingLeft="16dp"
+        android:gravity="center"
+        android:layout_marginTop="20dp"
+        android:fontFamily="sans-serif"
+        />
+
+    <Button
+        android:id="@+id/Backbtn"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:fontFamily="sans-serif"
+        android:gravity="center"
+        android:paddingLeft="16dp"
+        android:paddingTop="12dp"
+        android:paddingRight="16dp"
+        android:paddingBottom="12dp"
+        android:text="Back"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+</LinearLayout>
