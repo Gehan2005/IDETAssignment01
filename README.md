@@ -17,7 +17,7 @@ This is an Android application developed in *Kotlin* as part of Assignment 01. T
 
 ![Screenshot_20250328-004603](https://github.com/user-attachments/assets/833b10de-eb25-4d04-b281-adc7f84dc8aa)
 
-![Screenshot_20250328-004620](https://github.com/user-attachments/assets/d63c8f56-8e43-41a0-a106-f8c04e9367a3)
+![Screenshot_20250328-004611](https://github.com/user-attachments/assets/e006ac6f-4d1c-4684-b779-a46a1fd91540)
 
 ![Screenshot_20250328-004620](https://github.com/user-attachments/assets/13b5e881-d47a-4a94-9c7f-15139c6541d0)
 
