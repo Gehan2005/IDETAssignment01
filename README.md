@@ -15,6 +15,8 @@ This is an Android application developed in *Kotlin* as part of Assignment 01. T
 
 ![4b50c8c5-13f9-40c3-a47b-9975a638f389](https://github.com/user-attachments/assets/89a6f5eb-e074-42b5-9c7c-8252fab32eac)
 
+![Screenshot_20250328-004603](https://github.com/user-attachments/assets/833b10de-eb25-4d04-b281-adc7f84dc8aa)
+
 
 ## Installation
 1. Clone this repository:
